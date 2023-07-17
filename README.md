@@ -11,7 +11,7 @@ Javascript, HTML, CSS...
 
 ## Tech Stack
 
-**Client:** React, TailwindCSS
+**Client:** React, TailwindCSS, Bootstrap
 
 **Server:** Node, Express
 
